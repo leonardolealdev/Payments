@@ -2,9 +2,8 @@
 
 namespace Payments.Domain.Request
 {
-    public class PaymentMessageRequest
+    public class CreatePaymentMessage
     {
-        public long Id { get; set; }
         public string ContractNumber { get; set; }
         public int Quota { get; set; }
         public decimal Value { get; set; }

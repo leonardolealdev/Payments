@@ -6,6 +6,14 @@ namespace Payments.Domain.Commands
 {
     public class CreatePaymentCommand : IRequest<GenericCommand>
     {
+        public CreatePaymentCommand(string contractNumber, int quota, decimal value, PaymentStatus paymentStatus) 
+        {
+            ContractNumber = contractNumber;
+            Quota = quota;
+            Value = value;
+            PaymentStatus = paymentStatus;
+        }
+
         public string ContractNumber { get; set; }
         public int Quota { get; set; }
         public decimal Value { get; set; }

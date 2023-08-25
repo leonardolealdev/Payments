@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Payments.Domain.Commands;
 using Payments.Domain.Entities;
+using Payments.Domain.Request;
 
 namespace Payments.Infra.Profiles
 {
@@ -9,6 +10,7 @@ namespace Payments.Infra.Profiles
         public ClientProfile() 
         {
             CreateMap<CreateClientCommand, Client>();
+            CreateMap<CreateClientMessage, CreateClientCommand>();
         }
     }
 }

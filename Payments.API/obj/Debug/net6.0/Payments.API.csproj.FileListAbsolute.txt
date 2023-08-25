@@ -85,3 +85,11 @@ C:\Git\Payments.API\Payments.API\obj\Debug\net6.0\refint\Payments.API.dll
 C:\Git\Payments.API\Payments.API\obj\Debug\net6.0\Payments.API.pdb
 C:\Git\Payments.API\Payments.API\obj\Debug\net6.0\Payments.API.genruntimeconfig.cache
 C:\Git\Payments.API\Payments.API\obj\Debug\net6.0\ref\Payments.API.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\MassTransit.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Git\Payments.API\Payments.API\bin\Debug\net6.0\System.Threading.Channels.dll

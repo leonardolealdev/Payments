@@ -1,8 +1,7 @@
 ﻿namespace Payments.Domain.Request
 {
-    public class ClientMessageRequest
+    public class CreateClientMessage 
     {
-        public long Id { get; set; }
         public string CpfCnpj { get; set; }
         public string Name { get; set; }
         public string ContractNumber { get; set; }

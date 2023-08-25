@@ -38,6 +38,8 @@ namespace Payments.API
             services.AddIdentityConfiguration(Configuration);
 
             services.AddCommands();
+            services.RegisterQueues();
+            services.RegisterServiceBus(Configuration);
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
