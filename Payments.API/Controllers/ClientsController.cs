@@ -20,25 +20,19 @@ namespace Payments.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Insert([FromBody] CreateClientCommand command)
         {
-            var result = await _mediator.Send(command);
-
-            return Ok(result);
+            return Ok(await _mediator.Send(command));
         }
 
         [HttpPut]
         public async Task<IActionResult> Update([FromBody] UpdateClientCommand command)
         {
-            var result = await _mediator.Send(command);
-
-            return Ok(result);
+            return Ok(await _mediator.Send(command));
         }
 
         [HttpDelete]
         public async Task<IActionResult> Delete([FromBody] DeleteClientCommand command)
         {
-            var result = await _mediator.Send(command);
-
-            return Ok(result);
+            return Ok(await _mediator.Send(command));
         }
     }
 }
