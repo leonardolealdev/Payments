@@ -36,5 +36,8 @@ API de criação de pagamentos desenvolvida com .NET 6
 
 Obs 1: Necessário ter PostgreSql intalado com versão igual ou superior a 10
 
+Obs2: Criei uma controller Producer para disparar uma mensagem de criação de cliente ou de pagamento para a fila
+
+
 
 
