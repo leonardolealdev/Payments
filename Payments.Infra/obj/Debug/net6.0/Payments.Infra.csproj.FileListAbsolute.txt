@@ -1,0 +1,17 @@
+C:\Git\Payments.API\Payments.Infra\bin\Debug\net6.0\Payments.Infra.deps.json
+C:\Git\Payments.API\Payments.Infra\bin\Debug\net6.0\Payments.Infra.runtimeconfig.json
+C:\Git\Payments.API\Payments.Infra\bin\Debug\net6.0\Payments.Infra.dll
+C:\Git\Payments.API\Payments.Infra\bin\Debug\net6.0\Payments.Infra.pdb
+C:\Git\Payments.API\Payments.Infra\bin\Debug\net6.0\Payments.Domain.dll
+C:\Git\Payments.API\Payments.Infra\bin\Debug\net6.0\Payments.Domain.pdb
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.csproj.AssemblyReference.cache
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.AssemblyInfoInputs.cache
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.AssemblyInfo.cs
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.csproj.CoreCompileInputs.cache
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.csproj.CopyComplete
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.dll
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\refint\Payments.Infra.dll
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.pdb
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\Payments.Infra.genruntimeconfig.cache
+C:\Git\Payments.API\Payments.Infra\obj\Debug\net6.0\ref\Payments.Infra.dll

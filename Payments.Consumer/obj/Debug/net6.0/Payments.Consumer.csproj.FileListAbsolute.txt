@@ -1,0 +1,12 @@
+C:\Git\Payments.API\Payments.Consumer\bin\Debug\net6.0\Payments.Consumer.deps.json
+C:\Git\Payments.API\Payments.Consumer\bin\Debug\net6.0\Payments.Consumer.dll
+C:\Git\Payments.API\Payments.Consumer\bin\Debug\net6.0\Payments.Consumer.pdb
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.csproj.AssemblyReference.cache
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.AssemblyInfoInputs.cache
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.AssemblyInfo.cs
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.csproj.CoreCompileInputs.cache
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.dll
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\refint\Payments.Consumer.dll
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\Payments.Consumer.pdb
+C:\Git\Payments.API\Payments.Consumer\obj\Debug\net6.0\ref\Payments.Consumer.dll

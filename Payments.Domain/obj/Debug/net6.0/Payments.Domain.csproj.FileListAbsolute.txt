@@ -1,0 +1,12 @@
+C:\Git\Payments.API\Payments.Domain\bin\Debug\net6.0\Payments.Domain.deps.json
+C:\Git\Payments.API\Payments.Domain\bin\Debug\net6.0\Payments.Domain.dll
+C:\Git\Payments.API\Payments.Domain\bin\Debug\net6.0\Payments.Domain.pdb
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.csproj.AssemblyReference.cache
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.AssemblyInfoInputs.cache
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.AssemblyInfo.cs
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.csproj.CoreCompileInputs.cache
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.dll
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\refint\Payments.Domain.dll
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\Payments.Domain.pdb
+C:\Git\Payments.API\Payments.Domain\obj\Debug\net6.0\ref\Payments.Domain.dll
